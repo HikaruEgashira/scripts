@@ -49,4 +49,4 @@ DEFAULT_BRANCH=$(git symbolic-ref --short HEAD)
 git push --set-upstream origin $DEFAULT_BRANCH
 
 echo ""
-echo "✅ private fork created $REMOTE_REPO_URL"
+echo "✅ copy created $REMOTE_REPO_URL"
